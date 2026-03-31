@@ -8,7 +8,7 @@ Availability Constraints**
 
 ## Instance format
 
-Each instance follows a simple text format. The first line contains the
+Instances are provided in the format **instance.jspmu** .Each instance follows a simple text format. The first line contains the
 number of jobs and machines. The following lines describe the operations
 of each job as pairs *(machine, processing time)* listed in processing
 order.
