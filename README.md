@@ -54,7 +54,7 @@ duration 1 - Hole 2: start 1, duration 1
 
 ### Literature benchmark instances
 
-The folder `instances_literature/` contains the 23 Job Shop Scheduling
+The folder `Instances/` contains the 23 Job Shop Scheduling
 benchmark instances modified to include machine availability
 constraints.
 
